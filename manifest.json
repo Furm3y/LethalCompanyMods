@@ -1,0 +1,10 @@
+{
+    "name": "InfSprint",
+    "version_number": "1.0.0",
+    "author": "CattoNamedFlea",
+    "website_url": "https://github.com/Amlinde/WhistleJester",
+    "description": "Gives you an ability to sprint infinitely",
+    "dependencies": [
+      "BepInEx-BepInExPack-5.4.2100"
+    ]
+  }
